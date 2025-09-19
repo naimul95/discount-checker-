@@ -23,6 +23,6 @@ if(qua>=10){
 if(qua>=15){
     p=p-p*0.15;}
 
-    cout<<"total price"<<p<<endl;
+    cout<<"total price:"<<" "<<p<<endl;
     return 0;
 }
